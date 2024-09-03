@@ -104,7 +104,7 @@ section {
   border-radius: 12px;
 }
 
-.recipe-preparation h3 {
+.recipe-preparation h2 {
   color: var(--rose-800);
   font-size: 2rem;
   margin-bottom: 1.6rem;
